@@ -96889,12 +96889,64 @@ width = 153;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+interpolationWeight = 36;
 instanceInterpolations = {
-UUID0 = 0.466667;
-"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.533333;
+UUID0 = 1;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
+},
+{
+interpolationWeight = 50;
+instanceInterpolations = {
+UUID0 = 0.883333;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.116667;
+};
+name = Light;
+weightClass = Light;
+},
+{
+interpolationWeight = 66;
+instanceInterpolations = {
+UUID0 = 0.75;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.25;
+};
+name = Regular;
+},
+{
+interpolationWeight = 84;
+instanceInterpolations = {
+UUID0 = 0.6;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.4;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 106;
+instanceInterpolations = {
+UUID0 = 0.416667;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.583333;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 130;
+instanceInterpolations = {
+UUID0 = 0.216667;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.783333;
+};
+name = Bold;
+weightClass = Bold;
+},
+{
+interpolationWeight = 156;
+instanceInterpolations = {
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 1;
+};
+name = ExtraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {
