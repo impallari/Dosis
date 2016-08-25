@@ -1,5 +1,8 @@
 {
 .appVersion = "911";
+DisplayStrings = (
+H
+);
 copyright = "Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved.";
 customParameters = (
 {
@@ -16,10 +19,18 @@ value = "Dosis is a trademark of EdgarTolentino, PabloImpallari, IginoMarini.";
 },
 {
 name = license;
-value = "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\012with Reserved Font Name Dosis.\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = 0;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2012-03-25 10:16:45 +0000";
+date = "2016-08-25 09:35:44 +0000";
 designer = "EdgarTolentino, PabloImpallari, IginoMarini";
 designerURL = www.impallari.com;
 familyName = Dosis;
@@ -119,6 +130,7 @@ verticalStems = (
 35
 );
 weight = Light;
+weightValue = 36;
 xHeight = 472;
 },
 {
@@ -175,6 +187,7 @@ verticalStems = (
 155
 );
 weight = Bold;
+weightValue = 156;
 xHeight = 476;
 }
 );
@@ -96876,6 +96889,10 @@ width = 153;
 disablesAutomaticAlignment = 1;
 instances = (
 {
+instanceInterpolations = {
+UUID0 = 0.466667;
+"228CC867-ECE3-4F82-B853-1E58141B916C" = 0.533333;
+};
 name = ExtraLight;
 weightClass = ExtraLight;
 }
@@ -99945,6 +99962,6 @@ slash = -13;
 manufacturer = "EdgarTolentino, PabloImpallari, IginoMarini";
 manufacturerURL = www.impallari.com;
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 7;
 }
