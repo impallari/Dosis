@@ -1,6 +1,6 @@
 {
 .appVersion = "911";
-copyright = "Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved.";
+copyright = "Copyright (c) 2011, The Abel Project Authors (impallari@gmail.com)";
 customParameters = (
 {
 name = licenseURL;
@@ -25,6 +25,10 @@ value = 0;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = IMPA;
 }
 );
 date = "2016-08-25 09:35:44 +0000";
