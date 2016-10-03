@@ -1,5 +1,5 @@
 {
-.appVersion = "913";
+.appVersion = "925";
 copyright = "Copyright (c) 2011, The Abel Project Authors (impallari@gmail.com)";
 customParameters = (
 {
@@ -119,7 +119,7 @@ value = 237;
 },
 {
 name = winAscent;
-value = 1027;
+value = 1123;
 }
 );
 descender = -237;
@@ -921,7 +921,7 @@ unicode = 1EAE;
 {
 color = 4;
 glyphname = Abrevedotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:12 +0000";
 layers = (
 {
 components = (
@@ -1325,7 +1325,7 @@ unicode = 1EA4;
 {
 color = 4;
 glyphname = Acircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:12 +0000";
 layers = (
 {
 components = (
@@ -6953,7 +6953,7 @@ unicode = 1EBE;
 {
 color = 4;
 glyphname = Ecircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:12 +0000";
 layers = (
 {
 components = (
@@ -16285,7 +16285,7 @@ unicode = 1ED0;
 {
 color = 4;
 glyphname = Ocircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:03 +0000";
 layers = (
 {
 components = (
@@ -16921,7 +16921,7 @@ unicode = 1ECE;
 {
 color = 4;
 glyphname = Ohorn;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:03:49 +0000";
 layers = (
 {
 components = (
@@ -16943,7 +16943,7 @@ name = O;
 },
 {
 name = horncomb;
-transform = "{1, 0, 0, 1, 370, 255}";
+transform = "{1, 0, 0, 1, 213, 255}";
 }
 );
 layerId = "228CC867-ECE3-4F82-B853-1E58141B916C";
@@ -16957,7 +16957,7 @@ unicode = 01A0;
 {
 color = 4;
 glyphname = Ohornacute;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:07 +0000";
 layers = (
 {
 components = (
@@ -17029,7 +17029,7 @@ unicode = 1EE2;
 {
 color = 4;
 glyphname = Ohorngrave;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:11 +0000";
 layers = (
 {
 components = (
@@ -22940,7 +22940,7 @@ unicode = 1EE6;
 {
 color = 4;
 glyphname = Uhorn;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:03:49 +0000";
 layers = (
 {
 components = (
@@ -22962,7 +22962,7 @@ name = U;
 },
 {
 name = horncomb;
-transform = "{1, 0, 0, 1, 393, 255}";
+transform = "{1, 0, 0, 1, 376, 255}";
 }
 );
 layerId = "228CC867-ECE3-4F82-B853-1E58141B916C";
@@ -22976,7 +22976,7 @@ unicode = 01AF;
 {
 color = 4;
 glyphname = Uhornacute;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:07 +0000";
 layers = (
 {
 components = (
@@ -23048,7 +23048,7 @@ unicode = 1EF0;
 {
 color = 4;
 glyphname = Uhorngrave;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:11 +0000";
 layers = (
 {
 components = (
@@ -28181,7 +28181,7 @@ unicode = 00E1;
 {
 color = 4;
 glyphname = abreve;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:05:56 +0000";
 layers = (
 {
 components = (
@@ -28337,7 +28337,7 @@ unicode = 1EAF;
 {
 color = 4;
 glyphname = abrevedotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:05:56 +0000";
 layers = (
 {
 components = (
@@ -28806,7 +28806,7 @@ unicode = 1EA5;
 {
 color = 4;
 glyphname = acircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:03 +0000";
 layers = (
 {
 components = (
@@ -35248,7 +35248,7 @@ unicode = 1EBF;
 {
 color = 4;
 glyphname = ecircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:03 +0000";
 layers = (
 {
 components = (
@@ -45944,7 +45944,7 @@ unicode = 1ED1;
 {
 color = 4;
 glyphname = ocircumflexdotbelow;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:03 +0000";
 layers = (
 {
 components = (
@@ -46616,7 +46616,7 @@ unicode = 01A1;
 {
 color = 4;
 glyphname = ohornacute;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:07 +0000";
 layers = (
 {
 components = (
@@ -46688,7 +46688,7 @@ unicode = 1EE3;
 {
 color = 4;
 glyphname = ohorngrave;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:11 +0000";
 layers = (
 {
 components = (
@@ -53561,7 +53561,7 @@ unicode = 01B0;
 {
 color = 4;
 glyphname = uhornacute;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:07 +0000";
 layers = (
 {
 components = (
@@ -53633,7 +53633,7 @@ unicode = 1EF1;
 {
 color = 4;
 glyphname = uhorngrave;
-lastChange = "2016-09-01 13:44:24 +0000";
+lastChange = "2016-10-03 21:06:11 +0000";
 layers = (
 {
 components = (
@@ -99835,11 +99835,11 @@ ampersand = -19;
 asterisk = -19;
 at = -46;
 ccaron = -74;
-idotless = -86;
 eight = -11;
 four = -39;
 iacute = -35;
 ibreve = 29;
+idotless = -86;
 one.lnum = -22;
 p = -91;
 rcaron = -9;
@@ -99891,10 +99891,10 @@ slash = -10;
 "@MMK_R_z" = -19;
 ampersand = -7;
 at = -22;
-idotless = -37;
 four = -21;
 ibreve = 17;
 icircumflex = 15;
+idotless = -37;
 imacron = 26;
 itilde = 38;
 jcircumflex = 13;
@@ -99930,9 +99930,9 @@ x = -13;
 ampersand = -13;
 at = -43;
 ccaron = -84;
-idotless = -70;
 four = -41;
 ibreve = 21;
+idotless = -70;
 imacron = 23;
 itilde = 30;
 one.lnum = -17;
@@ -100448,7 +100448,6 @@ aring = -107;
 asterisk = -19;
 at = -59;
 ccaron = -75;
-idotless = -86;
 ebreve = -113;
 ecaron = -91;
 eight = -12;
@@ -100457,6 +100456,7 @@ four = -53;
 gbreve = -120;
 iacute = -60;
 ibreve = 28;
+idotless = -86;
 ncaron = -101;
 nine = -10;
 obreve = -112;
@@ -100499,10 +100499,10 @@ ampersand = -6;
 at = -11;
 braceright = -22;
 bracketright = -24;
-idotless = -9;
 ellipsis = -93;
 four = -19;
 icircumflex = 14;
+idotless = -9;
 itilde = 25;
 jcircumflex = 13;
 p = -9;
@@ -100551,10 +100551,10 @@ V = {
 "@MMK_R_z" = -24;
 ampersand = -8;
 at = -25;
-idotless = -44;
 four = -25;
 ibreve = 19;
 icircumflex = 14;
+idotless = -44;
 imacron = 26;
 itilde = 38;
 jcircumflex = 13;
@@ -101342,7 +101342,6 @@ at = -49;
 atilde = -47;
 ccaron = -77;
 ccircumflex = -89;
-idotless = -95;
 fi = -16;
 fl = -16;
 four = -42;
@@ -101351,6 +101350,7 @@ hbar = 24;
 ibreve = 23;
 icircumflex = 31;
 idieresis = 22;
+idotless = -95;
 igrave = 21;
 imacron = 37;
 itilde = 66;
@@ -101409,12 +101409,12 @@ ampersand = -11;
 at = -24;
 braceright = 7;
 bracketright = 5;
-idotless = -35;
 four = -22;
 hbar = 24;
 ibreve = 26;
 icircumflex = 29;
 idieresis = 22;
+idotless = -35;
 igrave = 25;
 imacron = 41;
 itilde = 68;
@@ -101456,7 +101456,6 @@ at = -49;
 atilde = -45;
 ccaron = -74;
 ccircumflex = -97;
-idotless = -71;
 ecaron = -97;
 eight = -10;
 emacron = -94;
@@ -101467,6 +101466,7 @@ hbar = 11;
 ibreve = 23;
 icircumflex = 23;
 idieresis = 18;
+idotless = -71;
 igrave = 24;
 imacron = 40;
 itilde = 67;
@@ -101915,7 +101915,6 @@ atilde = -37;
 braceright = 11;
 bracketright = 10;
 ccaron = -68;
-idotless = -74;
 fi = -15;
 fl = -15;
 four = -33;
@@ -101923,6 +101922,7 @@ hbar = 30;
 ibreve = 32;
 icircumflex = 39;
 idieresis = 30;
+idotless = -74;
 igrave = 30;
 imacron = 46;
 itilde = 75;
@@ -102022,12 +102022,12 @@ V = {
 ampersand = -10;
 at = -22;
 braceright = 5;
-idotless = -32;
 four = -20;
 hbar = 24;
 ibreve = 24;
 icircumflex = 29;
 idieresis = 20;
+idotless = -32;
 igrave = 25;
 imacron = 40;
 itilde = 68;
