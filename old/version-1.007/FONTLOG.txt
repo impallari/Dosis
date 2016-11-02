@@ -19,9 +19,6 @@ impallari@gmail.com
 
 ChangeLog
 
-25 Auguest 2016 (Marc Foley) Dosis Family v2.007
-- Collated sources into .glyphs files.
-
 18 March 2012 (Pablo Impallari, Edgar Tolentino & Igino Marini) Dosis Family v1.007
 - Renamed family to "Dosis" to avoid a trademark dispute
 
