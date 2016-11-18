@@ -9,7 +9,7 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Edgar Tolentino <>
+Edgar Tolentino <dosis.creativa@gmail.com>
 Pablo Impallari <impallari@gmail.com>
 Igino Marini <mail@iginomarini.com>
 Marc Foley <m.foley.88@gmail.com>
