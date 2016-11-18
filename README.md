@@ -1,6 +1,6 @@
 ## Current Status
-- Version 3.001 is the latest stable version.
-- Version 4.xxx is an ongoing migration to Glyphs and Vietnamese and Cyrillic extension, but is still a work in progress.
+- Version 1.007 is the latest stable version.
+- Version 2.xxx is an ongoing migration to Glyphs and Vietnamese extension, but is still a work in progress.
 
 ## Dosis Font
 by Edgar Tolentino, Pablo Impallari, Igino Marini
