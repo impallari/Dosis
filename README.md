@@ -1,6 +1,7 @@
 ## Current Status
-- Version 1.007 is the latest stable version.
-- Version 2.xxx is an ongoing migration to Glyphs and Vietnamese extension, but is still a work in progress.
+- Version 1.007 is the initial version.
+- Version 2.007 is a Vietnamese charset extension
+- Version 2.031beta is a much improved new version with increased xheight and refined uppercases, but is still a work in progress beta version.
 
 ## Dosis Font
 by Edgar Tolentino, Pablo Impallari, Igino Marini
