@@ -1,6 +1,7 @@
 ## Current Status
 - Version 1.007 is the initial version.
 - Version 2.007 is a Vietnamese charset extension
+- Version 2.011 (The one currently at Google Fonts) is at https://github.com/googlefonts/dosis-vf
 - Version 2.031beta is a much improved new version with increased xheight and refined uppercases, but is still a work in progress beta version.
 
 ## Dosis Font
